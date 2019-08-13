@@ -1,0 +1,43 @@
+.main-cont {
+    width: 322px;
+    height: 200px;
+    padding-top: 4%;
+
+    border: 1px solid #ababab;
+    background: url('../assets/img/20091.jpg');
+    border-radius: 12px;
+    background-position: center;
+    background-size: 100%;
+
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Credit Card'
+}
+
+.chip-cont img {
+    width: 50px;
+    height: 50px;
+}
+
+.number {
+    background-color: rgba(243, 220, 11, 0.438);
+    margin-top: 3%;
+}
+
+.val {
+    font-size: .5rem;
+    margin-top: 1%;
+    padding-top: 0%;
+}
+
+label {
+    margin-bottom: 0%;
+}
+
+.holder {
+    white-space: nowrap;
+}
+
+Col {
+    margin-left: 0%;
+}
